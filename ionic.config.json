@@ -1,0 +1,8 @@
+{
+  "name": "primer_apk",
+  "app_id": "020c2d52",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
